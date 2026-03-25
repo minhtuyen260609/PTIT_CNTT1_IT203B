@@ -1,0 +1,2 @@
+-- Init file - trống, dùng để placeholder hoặc có thể dùng để chạy các lệnh setup khác
+-- Tập hợp tất cả các scripts khởi tạo database
